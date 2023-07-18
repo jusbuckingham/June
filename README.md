@@ -1,7 +1,7 @@
 # June
 Using LLMs to quantify the Black American experience.
 
-# Subjects
+## Subjects
 
 - Slavery
 - Jim Crow
@@ -10,7 +10,7 @@ Using LLMs to quantify the Black American experience.
 - Healthcare
 - Black Wallstreet
 
-# Technologies 
+## Technologies 
 
 - Python3
 - Jupyter Notebooks
