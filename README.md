@@ -1,5 +1,5 @@
-# june
-Using AI to quantify the black American experience.
+# June
+Using LLMs to quantify the Black American experience.
 
 # Subjects
 
