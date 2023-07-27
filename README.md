@@ -4,11 +4,11 @@ Using LLMs to quantify the Black American experience.
 ## Subjects
 
 - Slavery
-- Jim Crow
-- Civil Rights movement
-- Redlining
-- Healthcare
-- Black Wallstreet
+- Jim Crow (Coming soon)
+- Civil Rights movement (Coming soon)
+- Redlining (Coming soon)
+- Healthcare (Coming soon)
+- Black Wallstreet (Coming soon)
 
 ## Technologies 
 
