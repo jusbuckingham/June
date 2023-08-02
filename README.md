@@ -12,6 +12,6 @@ Using LLMs to quantify the Black American experience.
 
 ## Technologies 
 
-- Python3
 - Jupyter Notebooks
+- Python
 - ChatGPT API
