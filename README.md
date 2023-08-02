@@ -15,4 +15,3 @@ Using LLMs to quantify the Black American experience.
 - Python3
 - Jupyter Notebooks
 - ChatGPT API
-- LangChain
