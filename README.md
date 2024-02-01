@@ -1,17 +1,19 @@
-# June
-Using LLMs to quantify the Black American experience.
+# june
+Quantifying the Black American experience.
+
+## Purpose
+
+![American Slavery Segregation Graphicj](./imgs/american-slavery-segregation-graphic.jpeg)
 
 ## Subjects
 
 - Slavery
-- Jim Crow (Coming soon)
-- Civil Rights movement (Coming soon)
-- Redlining (Coming soon)
-- Healthcare (Coming soon)
-- Black Wallstreet (Coming soon)
+- Jim Crow 
 
 ## Technologies 
 
-- Jupyter Notebooks
-- Python
-- ChatGPT API
+Frontend: Next.js
+Backend: Next.js
+Database: Mongo DB
+Cache Database: Redis
+Cloud: AWS
