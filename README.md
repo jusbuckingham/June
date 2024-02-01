@@ -1,5 +1,4 @@
 # june
-Quantifying the Black American experience.
 
 ## Purpose
 
