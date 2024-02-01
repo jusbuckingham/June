@@ -14,11 +14,11 @@ Quantifying the Black American experience.
 
 ## Technologies 
 
-Frontend: Next.js
-Middleware: Express.js
-Backend: Next.js
-LLM Middleware: Langchain
-LLM: [OpenAI](https://github.com/openai/openai-python) / [OpenAI API](https://platform.openai.com/api-keys)
-Database: Mongo DB
-Cache Database: Redis
-Cloud: AWS
+- Frontend: Next.js
+- Middleware: Express.js
+- Backend: Next.js
+- LLM Middleware: Langchain
+- LLM: [OpenAI](https://github.com/openai/openai-python) / [OpenAI API](https://platform.openai.com/api-keys)
+- Database: Mongo DB
+- Cache Database: Redis
+- Cloud: AWS
