@@ -3,14 +3,14 @@ Quantifying the Black American experience.
 
 ## Purpose
 
-We want to quanitify and present data for the following timeline:
+### We want to quanitify and present data for the following timeline:
 
 ![American Slavery Segregation Graphicj](./imgs/american-slavery-segregation-graphic.jpeg)
 
 ## Subjects
 
-- Slavery
-- Jim Crow 
+- American Slavery
+- Segregation
 
 ## Technologies 
 
