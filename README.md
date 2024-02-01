@@ -1,8 +1,6 @@
 # june
 
-## Purpose
-
-### We want to quanitify and present data for the following timeline:
+## Timeline of study
 
 ![American Slavery Segregation Graphicj](./imgs/american-slavery-segregation-graphic.jpeg)
 
